@@ -50,12 +50,12 @@ The reconstructed image is available as output/output.pgm.
 
 # References
 
-[1](https://www.mia.uni-saarland.de/Publications/weickert-emmcvpr13.pdf) J. Weickert, K. Hagenburg, M. Breuß, O. Vogel, Linear osmosis models for visual computing, in:
+[1] J. Weickert, K. Hagenburg, M. Breuß, O. Vogel, Linear osmosis models for visual computing, in:
 A. Heyden, F. Kahl, C. Olsson, M. Oskarsson, X.-C. Tai (Eds.), Energy Minimization Methods
 in Computer Vision and Pattern Recognition, Springer Berlin Heidelberg, Berlin, Heidelberg,
 2013, pp. 26–39.
 
-[2](https://www.mia.uni-saarland.de/Publications/vogel-ssvm13.pdf) O. Vogel, K. Hagenburg, J. Weickert, S. Setzer, A fully discrete theory for linear osmosis
+[2] O. Vogel, K. Hagenburg, J. Weickert, S. Setzer, A fully discrete theory for linear osmosis
 filtering, in: A. Kuijper, K. Bredies, T. Pock, H. Bischof (Eds.), Scale Space and Variational
 Methods in Computer Vision, Springer Berlin Heidelberg, Berlin, Heidelberg, 2013, pp. 368–379.
 
