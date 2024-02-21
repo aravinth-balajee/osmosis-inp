@@ -1,0 +1,4 @@
+.vscode/*
+CMakeCache.txt
+main
+test_petsc_opencv.c
